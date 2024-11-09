@@ -274,7 +274,7 @@ class _MainPageState extends State<HomePage> with SingleTickerProviderStateMixin
             Visibility(
                 visible: visibleSP,
                 child: Padding(
-                  padding: const EdgeInsets.fromLTRB(20, 10, 20, 0),
+                  padding: const EdgeInsets.fromLTRB(20, 10, 20, 40),
                   child: Container(
                     padding: const EdgeInsets.all(10),
                     decoration: BoxDecoration(
@@ -286,7 +286,8 @@ class _MainPageState extends State<HomePage> with SingleTickerProviderStateMixin
                 )
             )
           ],
-        ));
+        )
+    );
   }
 
   // get from gallery
