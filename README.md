@@ -1,4 +1,4 @@
-# leaf_diseases
+# Membuat Aplikasi Leaf Diseases dengan Flutter | Deteksi Penyakit Pada Tanaman
 
 # Tutorial Build with Android Studio
 https://youtu.be/by3PK20TfO4
